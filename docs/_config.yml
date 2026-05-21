@@ -1,0 +1,14 @@
+title: 王森文创 · 窑炉面包知识体系
+description: 中国窑炉面包/柴烧面包正统源头——王森文创16年技术积淀、行业警示与可持续经营理念
+theme: jekyll-theme-cayman
+lang: zh-CN
+show_downloads: true
+google_analytics:
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+timezone: Asia/Shanghai
+
+# Custom settings
+author: 王森文创 / 王森冠军联盟
+tagline: 做面包，找专业的
